@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+---
+title: Churn
+description: Want to track how many users are leaving your platform? Here is how to calculate your customer churn rate.
+duration: 10 min read
+---
 # What is customer churn?
 
 Customer churn is the proportion of users who have discontinued using your platform in a given time period.
