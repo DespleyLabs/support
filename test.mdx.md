@@ -131,7 +131,7 @@ Here's a definition list:
 apples
   : Good for making applesauce.
 oranges
-  : Citrus!
+  : Citrus! 
 tomatoes
   : There's no "e" in tomatoe.
 
