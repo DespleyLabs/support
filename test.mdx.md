@@ -37,11 +37,3 @@ Increasing customer retention is critical for any business looking to achieve lo
 One key strategy is to **communicate with customers at every stage of their journey**. From the initial onboarding process to ongoing support, you should strive to make customers feel valued and heard. By doing so, customers are more likely to remain loyal and continue using your product or service.
 
 Using the insights gained from analyzing customer churn, future customer experience can be improved upon. By identifying the reasons behind the churn, you can address these issues, and make appropriate changes to reduce churn and increase customer loyalty.
-=======
----
-title: Hello
-slug: home
----
-# Hello World
-# this is a test
->>>>>>> f8cc847b5d6c5a292cbed2d14e6602f38108a10e
