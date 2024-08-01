@@ -1,157 +1,34 @@
-An h1 header
-============
+# What is customer churn?
 
-Paragraphs are separated by a blank line.
+Customer churn is the proportion of users who have discontinued using your platform in a given time period.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+It shows the percentage of users who have cancelled their subscriptions or downgraded to a free account, meaning they are no longer paying to use your service.
 
-  * this one
-  * that one
-  * the other one
+### How to calculate customer churn
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+To calculate churn, divide the number of customers you lost over a given time period by the total number of customers you started with.
 
-> Block quotes are
-> written like so.
 >
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+> Churn (%) = Lost customers / Starting customers X 100
+>
 
 
+### Why is a customer churn analysis important?
 
-An h2 header
-------------
+Customer churn is one of many financial metrics you should be tracking in your company. By reviewing how many users are dropping off your platform, you can see exactly what is happening with your user base over different time periods.
 
-Here's a numbered list:
+There is no single benchmark you should be aiming for when it comes to your company’s churn rate. The rate will differ depending on what industry you’re operating in and what business stage you’re at.
 
- 1. first item
- 2. second item
- 3. third item
+But, the lower the churn, the more you’re retaining your existing customer base.
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
+Importantly, a customer churn analysis allows you to track changes to your user base over time. By regularly calculating your churn rate and comparing this rate month-on-month (or year-on-year) you can estimate future positions and work to maintain and improve your cash flow.
 
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
+Churn should be used as a way to broadly assess your user base. In order to learn more about what’s causing churn within your company, you’ll need to look deeper into your financial and user metrics (such as the answers in users’ exit surveys or feedback from customers who have downgraded their plans).
 
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
+### Tips for reducing customer churn
 
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
+Increasing customer retention is critical for any business looking to achieve long-term success. __Studies show that a 5% increase in customer retention can lead to more than a 25% increase in profits__. So, what can you do to improve customer retention?
 
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
+One key strategy is to **communicate with customers at every stage of their journey**. From the initial onboarding process to ongoing support, you should strive to make customers feel valued and heard. By doing so, customers are more likely to remain loyal and continue using your product or service.
 
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print i
-~~~
-
-
-
-### An h3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
-[^1]: Footnote text goes here.
-
-Tables can look like this:
-
-size  material      color
-----  ------------  ------------
-9     leather       brown
-10    hemp canvas   natural
-11    glass         transparent
-
-Table: Shoes, their sizes, and what they're made of
-
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
-
---------  -----------------------
-keyword   text
---------  -----------------------
-red       Sunsets, apples, and
-          other red or reddish
-          things.
-
-green     Leaves, grass, frogs
-          and other things it's
-          not easy being.
---------  -----------------------
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-oranges
-  : Citrus! 
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term/definition pair to spread things out more.)
-
-Here's a "line block":
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](example-image.jpg "An exemplary image")
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-
-And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+Using the insights gained from analyzing customer churn, future customer experience can be improved upon. By identifying the reasons behind the churn, you can address these issues, and make appropriate changes to reduce churn and increase customer loyalty.
